@@ -12,16 +12,19 @@ As Australia enters a covid-normal environment, the restaurant industry has to a
   - Image upload 
   - Transaction management
   - Products Management(CRUD)
-  - Authentication
+  - Authentication/AUthorisation
+  - The application contains an admin ui for business operators to edit and manipulate content without touching code. It will support admin authentication which direct user to dashboard. The dashboard has image upload for gallery carousel and menu, tab to manage incoming orders and create, edit and deleting of menu items. 
+  
 - Ordering and payment system (Stripe and Paypal API)
+  - Allows for ordering and payment from within the application 
+  - Allows customer to use Paypal or credit/debit card for payment 
+  - Transaction is sent to Admin ui
+  
 - Contact form 
-- social media integration (Instagram and Facebook API)
-- Authorisation 
+  - Direct way to contact the business 
+
 - google analytics ???
 - maps API 
-
-
-
 
 
 ### Target audience
