@@ -4,6 +4,8 @@
 
 ### Purpose
 
+As straya enters a covid something, contactless payment n stuff
+
 ### Functionality / features
 
 ### Target audience
@@ -16,6 +18,10 @@
 - ExpressJS
 - React
 - NodeJS
+  
+#### CMS
+
+- KeystoneJS
   
 #### Deployment
 
