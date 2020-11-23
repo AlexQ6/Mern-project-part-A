@@ -72,6 +72,11 @@ Cafes and restaurants who need to have a up to date application that can handle 
 ## User Stories
 
 ### Content management system (Admin UI)
+- As an admin I want to be able to 
+  - see and edit all website content from one place, so it is easier to manage
+  - 
+
+
 ### Ordering and payment system (Stripe and Paypal API)
 ### Contact form 
 ### social media integration
