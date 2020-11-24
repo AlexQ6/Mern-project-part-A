@@ -1,10 +1,12 @@
 # Mern-project-part-A
 
+Joint project By Alex Qiang and Lachlan Reynolds
+
 ## Description
 
 ### Purpose
 
-As Australia enters a covid-normal environment, the restaurant industry has to adapt to continue to succeed. It is essential that a business has online and contactless ordering capabilities. This MERN stack application seeks to makes it easy for business operators to interact with content and data. It will provide a seamless experience for customers to engage with and be a powerful business and marketing platform for restaurant operators. 
+As Australia enters a covid-normal environment, the restaurant industry has to adapt to continue to succeed. It is essential that a business has online ordering click and collect capabilities. This application makes ordering at cafe XYZ an easy and fast online affair. We also seek to makes it easy for the business operator to interact with the website content and data. This web app will provide a seamless experience for customers to engage with and be a powerful business and marketing platform for restaurant operators. 
 
 ### Functionality / features
 
@@ -24,17 +26,23 @@ As Australia enters a covid-normal environment, the restaurant industry has to a
   - View list of menu items, grouped by categories
   - Filterable dietary requirements
   - Cart functionality
+  - Pick collection time
   
 
 #### Nice to have feature
 - Google analytics 
 - Maps API 
-- search function for ordering
+- Search function for ordering
 
 
 ### Target audience
 
-Cafes and restaurants who need to have a up to date application that can handle the current business environment. Operators who want a app that can handle all key business functions so it can abide by covid protocols. 
+- Young people, professionals and families that want to save time by ordering online. 
+- Enjoy freshly baked goods and well prepared meals using fresh ingredients
+- Dislikes using clunky technologies 
+  
+
+
 
 ### Tech stack
 
@@ -82,6 +90,8 @@ Cafes and restaurants who need to have a up to date application that can handle 
 
 ### Content management system (Admin UI)
 
+Julie is a cafe owner of cafe XYZ for 6 years now. Recent time it has become very clear to her that an online presence and service is crucial for business operations and growth. She wants to bring her products to more customers and at the same time reduce crowding at the establishment
+
 - As an admin I want to be able to 
   - see and edit all website content from one place, so it is easier to manage
   - quickly add, edit and remove menu items so the website will be up to date
@@ -90,7 +100,9 @@ Cafes and restaurants who need to have a up to date application that can handle 
 
 ### Payment system (Stripe and Paypal API)
 
-- As a user I want to be able to
+Jeff is a student at University A studying law. He is a big fan of his local cafe XYZ and wants to support them during current times of covid. 
+
+- As a customer I want to be able to
   - add wanted products into a cart so it can be ready for purchase
   - use Paypal for the transaction as it is a popular service for payment
   - send the receipt to my email so I can have a proof of purchase
@@ -103,6 +115,7 @@ Cafes and restaurants who need to have a up to date application that can handle 
   - browse through a menu quickly so I can expeditiously make my decision 
   - filter the ordering selections so I can browse items that fit my dietary requirement
   - Add special requests upon checkout so I fulfil my culinary experience
+  - choose when I come collect my order so I can pick up my food when I'm ready
   
 
 ## Wireframes
