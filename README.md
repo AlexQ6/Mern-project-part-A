@@ -58,7 +58,7 @@ Cafes and restaurants who need to have a up to date application that can handle 
 
 - Adobe Xd
 - Balsamiq
-- Lucid Charts
+- Lucid Charts/diagrams.net
   
 ### Styling
 
