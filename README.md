@@ -65,6 +65,10 @@ Cafes and restaurants who need to have a up to date application that can handle 
 - SCSS
 - Bootstrap
 
+### Image Upload
+
+- AWS S3
+
 
 ## Dataflow Diagram
 
