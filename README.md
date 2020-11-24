@@ -18,7 +18,7 @@ As Australia enters a covid-normal environment, the restaurant industry has to a
 - Payment system (Stripe and Paypal API)
   - Allows for ordering and payment from within the application 
   - Allows customer to use Paypal or credit/debit card for payment 
-  - Transaction is sent to Admin ui
+  - Transaction is sent to Admin UI
   
 - Online ordering
   - View list of menu items, grouped by categories
