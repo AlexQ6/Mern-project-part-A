@@ -100,7 +100,7 @@ Julie is a cafe owner of cafe XYZ for 6 years now. Recent time it has become ver
 
 ### Payment system (Stripe and Paypal API)
 
-Jeff is a student at University A studying law. He is a big fan of his local cafe XYZ and wants to support them during current times of covid. 
+Jeff is a student at University B studying law. He is a big fan of his local cafe XYZ and wants to support them during current times of covid. He is quite time constrained and want to breeze through the payment process and then pick up his order. 
 
 - As a customer I want to be able to
   - add wanted products into a cart so it can be ready for purchase
@@ -110,12 +110,14 @@ Jeff is a student at University A studying law. He is a big fan of his local caf
 
 ### Online ordering 
 
+Liz is an accountant and is mother to 2 children. She is a very busy woman but makes time to focus on food and nutrition for herself and family. She recently found a local cafe named XYZ online and is interested in their offerings.
+
 - As a customer I want to be able to
   - contact the business on website so I can easily send some inquiries
   - browse through a menu quickly so I can expeditiously make my decision 
   - filter the ordering selections so I can browse items that fit my dietary requirement
   - Add special requests upon checkout so I fulfil my culinary experience
-  - choose when I come collect my order so I can pick up my food when I'm ready
+  - choose when I come to collect my order so I can pick up my food when I'm ready
   
 
 ## Wireframes
