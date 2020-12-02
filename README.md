@@ -80,10 +80,13 @@ As Australia enters a covid-normal environment, the restaurant industry has to a
 
 ## Dataflow Diagram
 
+![dfd](img/dfd.jpg)
+
 
 
 ## Application Architecture Diagram
 
+![aad](img/aad.jpg)
 
 
 ## User Stories
