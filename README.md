@@ -38,10 +38,10 @@ As Australia enters a covid-normal environment, the restaurant industry has to a
 ### Target audience
 
 - Young people, professionals and families that want to save time by ordering online. 
-- Enjoy freshly baked goods and well prepared meals using fresh ingredients
-- Dislikes using clunky technologies 
+- Enjoy freshly baked goods and well prepared meals using fresh ingredients.
+- Dislikes frustrating meal experiences
+- Dislikes bland meals
   
-
 
 
 ### Tech stack
@@ -90,9 +90,9 @@ As Australia enters a covid-normal environment, the restaurant industry has to a
 
 ### Content management system (Admin UI)
 
-Julie is a cafe owner of cafe XYZ for 6 years now. Recent time it has become very clear to her that an online presence and service is crucial for business operations and growth. She wants to bring her products to more customers and at the same time reduce crowding at the establishment
+Julie is the owner of cafe XYZ for 6 years now. Recent time it has become very clear to her that an online presence and service is crucial for business operations and growth. She wants to bring her products to more customers and at the same time reduce crowding at the establishment
 
-- As an admin I want to be able to 
+- As an admin(Julie) I want to be able to 
   - see and edit all website content from one place, so it is easier to manage
   - quickly add, edit and remove menu items so the website will be up to date
   - see orders that are coming through so I can sent the orders to the kitchen
@@ -102,7 +102,7 @@ Julie is a cafe owner of cafe XYZ for 6 years now. Recent time it has become ver
 
 Jeff is a student at University B studying law. He is a big fan of his local cafe XYZ and wants to support them during current times of covid. He is quite time constrained and want to breeze through the payment process and then pick up his order. 
 
-- As a customer I want to be able to
+- As a customer(Jeff) I want to be able to
   - add wanted products into a cart so it can be ready for purchase
   - use Paypal for the transaction as it is a popular service for payment
   - send the receipt to my email so I can have a proof of purchase
@@ -112,7 +112,7 @@ Jeff is a student at University B studying law. He is a big fan of his local caf
 
 Liz is an accountant and is mother to 2 children. She is a very busy woman but makes time to focus on food and nutrition for herself and family. She recently found a local cafe named XYZ online and is interested in their offerings.
 
-- As a customer I want to be able to
+- As a customer(Liz) I want to be able to
   - contact the business on website so I can easily send some inquiries
   - browse through a menu quickly so I can expeditiously make my decision 
   - filter the ordering selections so I can browse items that fit my dietary requirement
