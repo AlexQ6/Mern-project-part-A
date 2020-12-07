@@ -52,17 +52,20 @@ As Australia enters a covid-normal environment, the restaurant industry has to a
 - ExpressJS
 - React
 - NodeJS
-  
+- Stripe API
+- Paypal API
+- SendGrid 
   
 #### Deployment
 
 - Heroku (backend) 
 - Netlify (frontend) 
   
-### Wireframes and Diagrams
+### Wireframes, Diagrams, tools
 
 - Adobe Xd
 - Lucid Charts/diagrams.net
+- Trello
   
 ### Styling
 
