@@ -53,9 +53,6 @@ As Australia enters a covid-normal environment, the restaurant industry has to a
 - React
 - NodeJS
   
-#### CMS
-
-- KeystoneJS
   
 #### Deployment
 
@@ -65,7 +62,6 @@ As Australia enters a covid-normal environment, the restaurant industry has to a
 ### Wireframes and Diagrams
 
 - Adobe Xd
-- Balsamiq
 - Lucid Charts/diagrams.net
   
 ### Styling
