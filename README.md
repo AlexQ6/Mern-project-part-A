@@ -97,7 +97,7 @@ Julie is the owner of cafe XYZ for 6 years now. Recent time it has become very c
 - As an admin(Julie) I want to be able to 
   - see and edit all website content from one place, so it is easier to manage
   - quickly add, edit and remove menu items so the website will be up to date
-  - see orders that are coming through so I can sent the orders to the kitchen
+  - see orders that are coming through so I can send the orders to the kitchen
   - upload pictures for the menu items so the products seem more appetising
 
 ### Payment system (Stripe and Paypal API)
@@ -112,10 +112,10 @@ Jeff is a student at University B studying law. He is a big fan of his local caf
 
 ### Online ordering 
 
-Liz is an accountant and is mother to 2 children. She is a very busy woman but makes time to focus on food and nutrition for herself and family. She recently found a local cafe named XYZ online and is interested in their offerings.
+Liz is an accountant and is a mother of 2 children. She is a very busy woman but makes time to focus on food and nutrition for herself and family. She recently found a local cafe named XYZ online and is interested in their offerings.
 
 - As a customer(Liz) I want to be able to
-  - contact the business on website so I can easily send some inquiries
+  - contact the business on the website so I can easily send inquiries
   - browse through a menu quickly so I can expeditiously make my decision 
   - filter the ordering selections so I can browse items that fit my dietary requirement
   - add special requests upon checkout so I fulfil my culinary experience
