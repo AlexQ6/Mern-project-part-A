@@ -39,7 +39,7 @@ As Australia enters a covid-normal environment, the restaurant industry has to a
 
 - Young people, professionals and families that want to save time by ordering online. 
 - Enjoy freshly baked goods and well prepared meals using fresh ingredients.
-- Dislikes frustrating meal experiences
+- Dislikes frustrating ordering experiences
 - Dislikes bland meals
   
 
@@ -118,7 +118,7 @@ Liz is an accountant and is mother to 2 children. She is a very busy woman but m
   - contact the business on website so I can easily send some inquiries
   - browse through a menu quickly so I can expeditiously make my decision 
   - filter the ordering selections so I can browse items that fit my dietary requirement
-  - Add special requests upon checkout so I fulfil my culinary experience
+  - add special requests upon checkout so I fulfil my culinary experience
   - choose when I come to collect my order so I can pick up my food when I'm ready
   
 
