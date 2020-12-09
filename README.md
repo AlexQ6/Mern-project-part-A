@@ -6,7 +6,7 @@ Joint project By Alex Qiang and Lachlan Reynolds
 
 ### Purpose
 
-As Australia enters a covid-normal environment, the restaurant industry has to adapt to continue to succeed. It is essential that a business has online ordering click and collect capabilities. This application makes ordering at cafe XYZ an easy and fast online affair. We also seek to makes it easy for the business operator to interact with the website content and data. This web app will provide a seamless experience for customers to engage with and be a powerful business and marketing platform for restaurant operators. 
+As Australia enters a covid-normal environment, the restaurant industry has to adapt to continue to succeed. It is essential that a business has online ordering click and collect capabilities. This application makes ordering at cafe XYZ an easy and fast online affair. By having a in-house system, a business can prevent a percentage of the profits getting taken by large ordering apps. We also seek to makes it easy for the business operator to interact with the website content and data. This web app will provide a seamless experience for customers to engage with and be a powerful business and marketing platform for restaurant operators. 
 
 ### Functionality / features
 
@@ -43,7 +43,6 @@ As Australia enters a covid-normal environment, the restaurant industry has to a
 - Dislikes bland meals
   
 
-
 ### Tech stack
 
 #### App
@@ -61,7 +60,7 @@ As Australia enters a covid-normal environment, the restaurant industry has to a
 - Heroku (backend) 
 - Netlify (frontend) 
   
-### Wireframes, Diagrams, tools
+### Wireframes, Diagrams, Planning tools
 
 - Adobe Xd
 - Lucid Charts/diagrams.net
@@ -92,7 +91,7 @@ As Australia enters a covid-normal environment, the restaurant industry has to a
 
 ### Content management system (Admin UI)
 
-Julie is the owner of cafe XYZ for 6 years now. Recent time it has become very clear to her that an online presence and service is crucial for business operations and growth. She wants to bring her products to more customers and at the same time reduce crowding at the establishment
+Julie is the owner of cafe XYZ for 6 years now. In recent time, it has become very clear to her that an online presence and service is crucial for business operations and growth. She is hesitant to deal with large ordering apps who takes a large chunk out of the revenue. She wants to bring her products to more customers and at the same time reduce crowding at the establishment.
 
 - As an admin(Julie) I want to be able to 
   - see and edit all website content from one place, so it is easier to manage
@@ -112,7 +111,7 @@ Jeff is a student at University B studying law. He is a big fan of his local caf
 
 ### Online ordering 
 
-Liz is an accountant and is a mother of 2 children. She is a very busy woman but makes time to focus on food and nutrition for herself and family. She recently found a local cafe named XYZ online and is interested in their offerings.
+Liz is an accountant and is a mother of 2 children. She is a very busy person but makes time to focus on food and nutrition for herself and family. She recently found a local cafe named XYZ online and is interested in their offerings.
 
 - As a customer(Liz) I want to be able to
   - contact the business on the website so I can easily send inquiries
