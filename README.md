@@ -6,7 +6,7 @@ Joint project By Alex Qiang and Lachlan Reynolds
 
 ### Purpose
 
-As Australia enters a covid-normal environment, the restaurant industry has to adapt to continue to succeed. It is essential that a business has online ordering click and collect capabilities. This application makes ordering at cafe XYZ an easy and fast online affair. By having a in-house system, a business can prevent a percentage of the profits getting taken by large ordering apps. We also seek to makes it easy for the business operator to interact with the website content and data. This web app will provide a seamless experience for customers to engage with and be a powerful business and marketing platform for restaurant operators. 
+As Australia enters a covid-normal environment, the restaurant industry has to adapt to continue to succeed. It is essential that a business has online ordering click and collect capabilities. This application makes ordering at cafe XYZ an easy and fast online affair. By having an in-house system, a business can prevent a percentage of the profits getting taken by large ordering apps. We also seek to makes it easy for the business operator to interact with the website content and data. This web app will provide a seamless experience for customers to engage with and be a powerful business and marketing platform for restaurant operators. 
 
 ### Functionality / features
 
