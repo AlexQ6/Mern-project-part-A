@@ -6,21 +6,21 @@ Joint project By Alex Qiang and Lachlan Reynolds
 
 ### Purpose
 
-As Australia enters a covid-normal environment, the restaurant industry has to adapt to continue to succeed. It is essential that a business has online ordering click and collect capabilities. This application makes ordering at cafe XYZ an easy and fast online affair. By having an in-house system, a business can prevent a percentage of the profits getting taken by large ordering apps. We also seek to makes it easy for the business operator to interact with the website content and data. This web app will provide a seamless experience for customers to engage with and be a powerful business and marketing platform for restaurant operators. 
+As Australia enters a covid-normal environment, the restaurant industry has to adapt to continue to succeed. It is essential that a business has online ordering, click and collect capabilities. This application makes ordering at cafe XYZ an easy and fast online affair. By having an in-house system, a business can prevent a percentage of the profits getting taken by large ordering apps. We also seek to makes it easy for the business operator to interact with the website content and data. This web app will provide a seamless experience for customers to engage with and be a powerful business and marketing platform for restaurant operators. 
 
 ### Functionality / features
 
 - Content management system (Admin UI)
   - Image upload 
   - Transaction management
-  - Products Management(CRUD)
+  - Products management(CRUD)
   - Authentication/AUthorisation
-  - The application contains an admin ui for business operators to edit and manipulate content without touching code. It will support admin authentication which direct user to dashboard. The dashboard has image upload for gallery carousel and menu, tab to manage incoming orders and create, edit and deleting of menu items. 
+  - The application contains an admin UI for business operators to edit and manipulate content without touching code. It will support admin authentication which directs user to dashboard. The dashboard has image upload for gallery carousel and menu, tabs to manage incoming orders and create, edit and deleting of menu items. 
   
 - Payment system (Stripe and Paypal API)
   - Allows for ordering and payment from within the application 
   - Allows customer to use Paypal or credit/debit card for payment 
-  - Transaction is sent to Admin UI
+  - Transaction is sent to admin UI
   
 - Online ordering
   - View list of menu items, grouped by categories
@@ -91,7 +91,7 @@ As Australia enters a covid-normal environment, the restaurant industry has to a
 
 ### Content management system (Admin UI)
 
-Julie is the owner of cafe XYZ for 6 years now. In recent time, it has become very clear to her that an online presence and service is crucial for business operations and growth. She is hesitant to deal with large ordering apps who takes a large chunk out of the revenue. She wants to bring her products to more customers and at the same time reduce crowding at the establishment.
+Julie is the owner of cafe XYZ for 6 years now. In recent time, it has become very clear to her that an online presence and service is crucial for business operations and growth. She is hesitant to deal with large ordering apps who take a large chunk out of the revenue. She wants to bring her products to more customers and at the same time reduce crowding at the establishment.
 
 - As an admin(Julie) I want to be able to 
   - see and edit all website content from one place, so it is easier to manage
