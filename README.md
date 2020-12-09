@@ -125,27 +125,46 @@ Liz is an accountant and is a mother of 2 children. She is a very busy woman but
 ## Wireframes
 
 ### Home
+
+<details>
+<summary>Click to expand</summary>
+
 ![Home - Desktop Colored](./img/Wireframes/Home%20-%20Desktop%20-%20Prototype.png)
 ![Home - Desktop](./img/Wireframes/Home%20-%20Desktop.png)
 ![Home - Tablet](./img/Wireframes/Home%20-%20Tablet.png)
 ![Home - Mobile](./img/Wireframes/Home%20-%20Mobile.png)
 ![Home - Mobile w/ Nav](./img/Wireframes/Home%20-%20Mobile%20-%20Nav.png)
 
+</details>
+
 ### Order
+
+<details>
+<summary>Click to expand</summary>
 
 ![Order - Desktop Colored](img\Wireframes\Menu%20-%20Desktop%20–%204.png)
 ![Order - Desktop](./img/Wireframes/Menu%20-%20Desktop.png)
 ![Order - Tablet](./img/Wireframes/Menu%20%20-%20Tablet.png)
 ![Order - Mobile](./img/Wireframes/Menu%20-%20Mobile.png)
 
+</details>
+
 ### Order Modal
+
+<details>
+<summary>Click to expand</summary>
 
 ![Order Modal - Desktop Colored](img\Wireframes\Menu%20-%20Desktop%20–%205.png)
 ![Order Modal - Desktop](./img/Wireframes/Order%20Modal%20-%20Desktop.png)
 ![Order Modal - Tablet](./img/Wireframes/Order%20Modal%20-%20Tablet.png)
 ![Order Modal - Mobile](./img/Wireframes/Order%20Modal%20-%20Mobile.png)
 
+</details>
+
 ### Contact
+
+<details>
+<summary>Click to expand</summary>
 
 ![Contact - Desktop Colored](./img/Wireframes/Menu%20-%20Desktop%20–%203.png)
 ![Contact - Tablet Colored](img\Wireframes\Menu%20%20-%20Tablet%20-%20Portrait%20–%204.png)
@@ -154,13 +173,23 @@ Liz is an accountant and is a mother of 2 children. She is a very busy woman but
 ![Contact - Tablet](./img/Wireframes/Contact%20-%20Tablet.png)
 ![Contact - Mobile](./img/Wireframes/Contact%20-%20Mobile.png)
 
+</details>
+
 ### Checkout
+
+<details>
+<summary>Click to expand</summary>
 
 ![Checkout - Desktop](./img/Wireframes/Checkout%20-%20Desktop.png)
 ![Checkout - Tablet](./img/Wireframes/Checkout%20-%20Tablet.png)
 ![Checkout - Mobile](./img/Wireframes/Checkout%20-%20Mobile.png)
 
+</details>
+
 ### CMS
+
+<details>
+<summary>Click to expand</summary>
 
 ![CMS - Products Home](./mg/Wireframes/../../img/Wireframes/CMS%20-%20Products.png)
 ![CMS - All Products](./mg/Wireframes/../../img/Wireframes/CMS%20-%20All%20Product.png)
@@ -168,16 +197,18 @@ Liz is an accountant and is a mother of 2 children. She is a very busy woman but
 ![CMS - All Orders](./img/Wireframes/CMS%20-%20All%20Orders.png)
 ![CMS - Account](./img/Wireframes/CMS%20-%20Account.png)
 
+</details>
+
 ## Trello Screenshots
 
 ### 23/11/2020
 
-![Trello - 23rd Nov](./img/screenshots/start_trello_board.png)
+![Trello - 23rd Nov](./img/screenshots/start_trello_board.PNG)
 
 ### 25/11/2020
 
-![Trello - 25th Nov](./img/screenshots/during_one_trello_board.png)
+![Trello - 25th Nov](./img/screenshots/during_one_trello_board.PNG)
 
 ### 02/12/2020
 
-![Trello - 2nd Dec](./img/screenshots/during_two_trello_board.png)
+![Trello - 2nd Dec](./img/screenshots/during_two_trello_board.PNG)
