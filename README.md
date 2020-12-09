@@ -201,6 +201,9 @@ Liz is an accountant and is a mother of 2 children. She is a very busy woman but
 
 ## Trello Screenshots
 
+<details>
+<summary>Click to expand</summary>
+
 ### 23/11/2020
 
 ![Trello - 23rd Nov](./img/screenshots/start_trello_board.PNG)
@@ -212,3 +215,5 @@ Liz is an accountant and is a mother of 2 children. She is a very busy woman but
 ### 02/12/2020
 
 ![Trello - 2nd Dec](./img/screenshots/during_two_trello_board.PNG)
+
+</details>
